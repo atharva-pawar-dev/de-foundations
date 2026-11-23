@@ -1,6 +1,6 @@
 # Hi, I'm Atharva Pawar 👋
 
-Data Engineer in progress, based in Pune, India.
+Data Engineer, based in Pune, India.
 
 Currently working on the **Verizon Telecom Data Migration project** (Teradata → BigQuery)
 and the **GroupOn project** (TD and Hive → BigQuery) at Onix.
